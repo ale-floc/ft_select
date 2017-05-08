@@ -1,1 +1,16 @@
-# ft_select
+# Ft_select
+
+Ce projet de l'école 42, à réaliser seul, est un programme en termcaps qui retournera à votre shell les arguments sélectionner avec la barre d'espace parmis une liste au lancement de ce dernier.
+
+![alt text](header.png)
+
+## install & usage
+
+~~~sh
+git clone https://github.com/kaboff/ft_select.git ~/ft_select
+cd ~/ft_select && make
+~~~
+
+~~~sh
+./ft_select [Arguments...]
+~~~
