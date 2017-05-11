@@ -7,7 +7,7 @@ Ce projet de l'école 42, à réaliser seul, est un programme en termcaps qui re
 ## install & usage
 
 ~~~sh
-git clone https://github.com/kaboff/ft_select.git ~/ft_select
+git clone https://github.com/ale-floc/ft_select.git ~/ft_select
 cd ~/ft_select && make
 ~~~
 
